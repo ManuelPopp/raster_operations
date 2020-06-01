@@ -1,0 +1,12 @@
+Package: cmpnbs
+Type: Package
+Title: Compare values of neighbouring pixels of a raster object
+Version: 0.1.0
+Author: Manuel R. Popp
+Maintainer: Manuel R. Popp <geooekologie@cdpopp.de>
+Description: Compare the values of each pixel in a raster object with the values of adjacent pixels and replace pixels that differ from their neighbours.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: raster
+RoxygenNote: 7.1.0
